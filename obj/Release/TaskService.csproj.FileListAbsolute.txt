@@ -1,0 +1,5 @@
+E:\My Docs\ReadifyTask\TaskService\TaskService\bin\TaskService.dll
+E:\My Docs\ReadifyTask\TaskService\TaskService\bin\TaskService.pdb
+E:\My Docs\ReadifyTask\TaskService\TaskService\obj\Release\TaskService.dll
+E:\My Docs\ReadifyTask\TaskService\TaskService\obj\Release\TaskService.pdb
+E:\My Docs\ReadifyTask\TaskService\TaskService\obj\Release\TaskService.csprojResolveAssemblyReference.cache
